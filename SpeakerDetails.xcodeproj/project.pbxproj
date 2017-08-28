@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2AA6DD5B1F5482FB003B706A /* SpeakerDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA6DD5A1F5482FB003B706A /* SpeakerDetails.swift */; };
 		2AB63A841F38FF960077D2FE /* SpeakerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AB63A831F38FF960077D2FE /* SpeakerViewController.swift */; };
 		2AF7BD971F33BEC4005B6D3F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AF7BD961F33BEC4005B6D3F /* AppDelegate.swift */; };
 		2AF7BD991F33BEC4005B6D3F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AF7BD981F33BEC4005B6D3F /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2AA6DD5A1F5482FB003B706A /* SpeakerDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpeakerDetails.swift; sourceTree = "<group>"; };
 		2AB63A831F38FF960077D2FE /* SpeakerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpeakerViewController.swift; sourceTree = "<group>"; };
 		2AF7BD931F33BEC4005B6D3F /* SpeakerDetails.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpeakerDetails.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AF7BD961F33BEC4005B6D3F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				2AF7BD981F33BEC4005B6D3F /* ViewController.swift */,
 				2AB63A831F38FF960077D2FE /* SpeakerViewController.swift */,
 				2AF7BD9A1F33BEC4005B6D3F /* Main.storyboard */,
+				2AA6DD5A1F5482FB003B706A /* SpeakerDetails.swift */,
 				2AF7BDA01F33BEC4005B6D3F /* Assets.xcassets */,
 				2AF7BDA21F33BEC4005B6D3F /* LaunchScreen.storyboard */,
 				2AF7BDA51F33BEC4005B6D3F /* Info.plist */,
@@ -146,6 +149,7 @@
 				2AB63A841F38FF960077D2FE /* SpeakerViewController.swift in Sources */,
 				2AF7BD991F33BEC4005B6D3F /* ViewController.swift in Sources */,
 				2AF7BD971F33BEC4005B6D3F /* AppDelegate.swift in Sources */,
+				2AA6DD5B1F5482FB003B706A /* SpeakerDetails.swift in Sources */,
 				2AF7BD9F1F33BEC4005B6D3F /* SpeakerDetails.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
